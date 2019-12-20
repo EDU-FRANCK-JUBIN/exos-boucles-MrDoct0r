@@ -1,0 +1,5 @@
+/Users/mrdoctor/RiderProjects/ConsoleApplication1/ConsoleApplication4/bin/Debug/ConsoleApplication4.exe
+/Users/mrdoctor/RiderProjects/ConsoleApplication1/ConsoleApplication4/bin/Debug/ConsoleApplication4.pdb
+/Users/mrdoctor/RiderProjects/ConsoleApplication1/ConsoleApplication4/obj/Debug/ConsoleApplication4.csprojAssemblyReference.cache
+/Users/mrdoctor/RiderProjects/ConsoleApplication1/ConsoleApplication4/obj/Debug/ConsoleApplication4.exe
+/Users/mrdoctor/RiderProjects/ConsoleApplication1/ConsoleApplication4/obj/Debug/ConsoleApplication4.pdb
